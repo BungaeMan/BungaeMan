@@ -1,4 +1,4 @@
-# 안녕하세요, B2B SaaS Frontend Engineer `bungaeman`입니다.
+# 안녕하세요, B2B SaaS Frontend Engineer `박근우`입니다.
 
 운영 복잡도가 높은 제품에서 프론트엔드를 중심으로  
 **안정성(복구 가능성) · 확장성(구조 분리) · 운영성(배포/관측)** 을 개선하는 일을 합니다.
@@ -40,14 +40,13 @@ RN-WebView 브릿지 아키텍처와 배포/모니터링 체계를 함께 구축
 `GitHub Actions` `PM2` `Azure VM` `Sentry`
 
 ## GitHub Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bungaeman&layout=compact&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=bungaeman&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bungaeman&bg_color=ffffff&color=1f4e8a&line=1f4e8a&point=6c8ebf&area=true&hide_border=true)
 
 ## Contact
-- Email: `your-email@example.com`
-- Blog/Portfolio: `https://your-link.example`
-- LinkedIn: `https://linkedin.com/in/your-id`
+- Email: `gunwoo9402@naver.com`
+
+
 
 ---
 
