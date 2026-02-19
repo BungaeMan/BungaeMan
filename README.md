@@ -38,10 +38,33 @@ Canvas 편집, Edge 보정(`smoothStretchArea`), AI 연동 안정화, TOC 편집
 RN-WebView 브릿지 아키텍처와 배포/모니터링 체계를 함께 구축했습니다.
 
 ## Tech Stack
-`TypeScript` `React` `Next.js` `React Native` `Electron`  
-`Zustand` `Recoil` `Axios` `Node Stream` `Prisma` `PostgreSQL`  
-`GitHub Actions` `PM2` `Azure VM` `Sentry`
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+
+### State / API
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Node.js Stream](https://img.shields.io/badge/Node.js%20Stream-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+### Data / Backend
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### DevOps / Monitoring
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Azure VM](https://img.shields.io/badge/Azure%20VM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+## GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=bungaeman&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bungaeman&bg_color=ffffff&color=1f4e8a&line=1f4e8a&point=6c8ebf&area=true&hide_border=true)
 ## GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=bungaeman&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bungaeman&bg_color=ffffff&color=1f4e8a&line=1f4e8a&point=6c8ebf&area=true&hide_border=true)
