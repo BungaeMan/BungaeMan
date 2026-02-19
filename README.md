@@ -35,7 +35,7 @@ Canvas 편집, Edge 보정(`smoothStretchArea`), AI 연동 안정화, TOC 편집
 
 ### 4) Iluvit Mobile
 지도 중심 시설 탐색 모바일 앱 (React Native + Expo)  
-RN-WebView 브릿지 아키텍처와 배포/모니터링 체계를 함께 구축했습니다.
+전체적인 개발과 RN-WebView 브릿지 아키텍처와 배포/모니터링 체계를 함께 구축했습니다.
 
 ## Tech Stack
 ### Frontend
