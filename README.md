@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" alt="Park Keun Woo banner" width="100%" />
+  <img src="./banner.png" alt="Park Keun Woo banner" width="100%" />
 </p>
 # 안녕하세요, B2B SaaS Frontend Engineer `박근우`입니다.
 
