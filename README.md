@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.jpeg" alt="Park Keun Woo banner" width="100%" />
+</p>
 # 안녕하세요, B2B SaaS Frontend Engineer `박근우`입니다.
 
 운영 복잡도가 높은 제품에서 프론트엔드를 중심으로  
