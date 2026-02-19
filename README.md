@@ -45,11 +45,3 @@ RN-WebView 브릿지 아키텍처와 배포/모니터링 체계를 함께 구축
 
 ## Contact
 - Email: `gunwoo9402@naver.com`
-
-
-
----
-
-### Notes
-- 이 README는 GitHub Profile Repository(`bungaeman/bungaeman`)의 `README.md` 기준으로 작성했습니다.
-- 사용자명이 다르면 링크의 `username=bungaeman` 값을 본인 계정으로 변경하면 됩니다.
