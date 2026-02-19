@@ -24,7 +24,7 @@
 
 ### 2) FISQ Worker Frontend
 도서 DB화 작업자용 이미지 후처리 프로그램  
-Canvas 편집, Edge 보정(`smoothStretchArea`), AI 연동 안정화를 통해 작업 품질 편차를 줄였습니다.
+Canvas 편집, Edge 보정(`smoothStretchArea`), AI 연동 안정화, TOC 편집기능 등을 통해 작업 품질 편차를 줄였습니다.
 
 ### 3) Dash Flow
 멀티테넌트 기반 대출 업무 운영 플랫폼  
@@ -40,7 +40,6 @@ RN-WebView 브릿지 아키텍처와 배포/모니터링 체계를 함께 구축
 `GitHub Actions` `PM2` `Azure VM` `Sentry`
 
 ## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bungaeman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bungaeman&layout=compact&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=bungaeman&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bungaeman&bg_color=ffffff&color=1f4e8a&line=1f4e8a&point=6c8ebf&area=true&hide_border=true)
