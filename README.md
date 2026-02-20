@@ -39,44 +39,12 @@ Canvas 편집, Edge 보정(`smoothStretchArea`), AI 연동 안정화, TOC 편집
 
 ## Tech Stack
 ### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=9FEAF9)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-1677FF?style=flat-square&logo=antdesign&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### State / API
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![Node.js Stream](https://img.shields.io/badge/Node.js%20Stream-43853D?style=flat-square&logo=node.js&logoColor=white)
-![React Navigation](https://img.shields.io/badge/React%20Navigation-000000?style=flat-square&logo=reactnavigation&logoColor=white)
-![WebView](https://img.shields.io/badge/React%20Native%20WebView-5A5A5A?style=flat-square)
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square)
-
-### Data / Backend
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
-![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-### Cloud / Storage
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
-![Presigned URL](https://img.shields.io/badge/Presigned%20URL-4A5568?style=flat-square)
-
-### DevOps / Monitoring
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Azure VM](https://img.shields.io/badge/Azure%20VM-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![EAS](https://img.shields.io/badge/EAS-0F172A?style=flat-square&logo=expo&logoColor=white)
 
 ## GitHub Activity
 ![GitHub Streak](https://streak-stats.demolab.com?user=bungaeman&hide_border=true)
